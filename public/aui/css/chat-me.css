@@ -1,0 +1,29 @@
+.late{
+	display: none;
+}
+.contact{
+	display:none;
+}
+.setting{
+	display:none;
+}
+.aui-list-item.wechat-top {
+	background-color: #f3f3f7;
+}
+.aui-list .wechat-avatar {
+	width:3rem;
+}
+.wechat-avatar .aui-row-padded {
+	background-color: #dddee0;
+	padding: 0.1rem;
+	border-radius: 0.2rem;
+	margin-left: -0.05rem;
+	margin-right: -0.05rem;
+}
+.wechat-avatar .aui-row-padded [class*=aui-col-xs-] {
+	padding: 0.05rem;
+}
+.wechat-avatar,
+.wechat-avatar > img {
+	border-radius:0.2rem;
+}
